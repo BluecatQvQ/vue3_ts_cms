@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <h2>请重新输入</h2>
+    <h2>请重新输入，测试！</h2>
   </div>
 </template>
 
