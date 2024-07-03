@@ -41,3 +41,7 @@ npm run lint
 # vue3_ts_cms
 
 练手学习
+
+.env 文件在开发环境和生产环境中都会读取
+.env.development 文件在开发环境中会读取
+.env.production 文件在生产环境中会读取
