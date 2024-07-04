@@ -14,3 +14,5 @@ app.use(router)
 app.use(pinia)
 //app.use(ElementPlus)
 app.mount('#app')
+
+// 217 49:25
